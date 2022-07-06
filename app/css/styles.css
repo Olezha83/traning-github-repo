@@ -5,3 +5,9 @@ body {
 ol {
   list-style-type: disc;
 }
+
+.kvadrat {
+  width: 300px;
+  height: 200px;
+  background: chocolate;
+}
